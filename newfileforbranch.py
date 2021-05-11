@@ -1,5 +1,5 @@
 These are the best animals:
 
 king penguin
-Rockhopper penguin
+Chistrap penguin
 Gentoo penguin
