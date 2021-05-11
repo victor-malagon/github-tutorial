@@ -1,3 +1,6 @@
 #Ignore this files, you can use * as a wild card (before and/or after a word)
 ignor*
 .Rhistory
+ #you cna also ignore entire folders like : big-data/
+
+ 
