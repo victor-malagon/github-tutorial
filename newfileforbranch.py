@@ -5,5 +5,3 @@ Camels
 Whale sharks
 Perritos
 
-Whales!
-
